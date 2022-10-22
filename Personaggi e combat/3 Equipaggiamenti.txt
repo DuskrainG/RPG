@@ -1,0 +1,42 @@
+	1 handed weapons (main hand):
+spada: +3 forza
+fioretto: +1 forza, +1 schivata, +7 salute
+tirapugni: +5 forza, -1 schivata, -7 salute
+
+pugnale: +3 destrezza, +1 precisione, -1 schivata
+daga: +1 destrezza, +1 precisione, +7 salute
+kunai: +1 destrezza, +1 precisione, +1 schivata
+shuriken: +3 destrezza, -1 precisione, +1 schivata
+coltello: +2 destrezza, +2 precisione, -1 schivata
+
+
+	1 handed weapons (off hand):
+spadina: +1 forza, +7 salute
+
+frusta: +1 destrezza, +1 precisione
+
+scudo agile: +1 resistenza, +1 schivata
+scudo pesante: +1 resistenza, +7 salute
+guanto leggero: +1 precisione, +1 schivata
+guanto pesante: +1 schivata, +7 salute
+
+
+	2 handed weapons:
+spadone: +3 forza, +1 precisione, +1 schivata
+martello: +7 forza, -1 precisione, -1 schivata
+mazza: +5 forza, +1 precisione, -1 schivata
+
+arco leggero: +4 destrezza, +1 schivata
+arco pesante: +6 destrezza, -1 precisione
+scudarco: +2 destrezza, +1 schivata, +15 salute
+balestra: +4 destrezza, +1 precisione
+
+scettro: +5 intelligenza
+libro: +3 intelligenza, + 2 schivata
+papiro: +3 intelligenza, +2 precisione
+
+scudo legionario: +20 salute, +2 resistenza
+guanti magici: +2 precisione, +2 schivata, +7 salute
+
+
+Ogni giocatore inizia la partita con 1 arma a 2 mani oppure 2 armi a 1 mano. I fabbri possono migliorare le armi; aumentano del 50% (approssimato per difetto) le statistiche offerte da un'arma al costo di 6 oro (3 oro per armi a 1 mano). I fabbri possono anche vendere le armi allo stesso prezzo (6 oro per armi a 2 mani, 3 oro per armi a 1 mano).

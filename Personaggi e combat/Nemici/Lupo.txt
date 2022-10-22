@@ -1,0 +1,8 @@
+	STATISTICHE:
+salute: 35
+forza: 14	
+destrezza: \ 	
+intelligenza: \
+resistenza: 0	
+precisione: 6	
+schivata: 2

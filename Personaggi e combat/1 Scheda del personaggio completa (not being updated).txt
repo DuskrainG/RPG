@@ -1,0 +1,257 @@
+	STATISTICHE:
+salute:		bonus:
+forza:		bonus:
+destrezza:	bonus:
+intelligenza:	bonus:
+resistenza: 	bonus:
+precisione:	bonus:
+schivata:		bonus:
+
+salute attuale:
+
+Le statistiche sono determinate dalla classe scelta; i numeri tra parentesi indicano di quanto le statistiche sono aumentate quando si sale di livello. I bonus alle statistiche sono dati da equipaggiamento e armi.
+Consiglio: nel caso si vogliano usare più set di armi diverse (ad esempio set 1: arco, set 2: pugnale + scudo) conviene compilare 2 (o più) schede di statistiche in modo da poter agilmente cambiare le armi. Se il cambio di armi aumenta o diminuisce la salute, aumenta o diminuisce anche la salute attuale.
+
+
+
+	QUALITÀ:
+agilità: 
+nascondersi: 
+furto: 
+convincere: 
+empatizzare:
+risolutezza: 
+correre: 
+notare: 
+
+Ogni classe inizia con un predeterminato set di qualità; all'inizio della partita ogni giocatore ha 5 punti addizionali a disposizione da suddividere a piacere. Il massimo punteggio di qualità è generalmente 3; classi avvantaggiate possono arrivare a 5, mentre classi svantaggiate hanno un massimo di 1.
+
+
+
+	ABILITÀ:
+
+
+	TUTTE LE CLASSI:
+Attacco base (infinito):
+	0 danni
+Sforzo (1 per partita):
+	per il prossimo rischio ottieni +2 a ogni qualità
+Riposo (1):
+	rigenera 10 punti vita (non aumentato da statistiche)
+	questa abilità può essere usata solo di notte
+
+
+	GUERRIERO: (le abilità guadagnano danni in base alla forza)
+Protezione divina (1):
+	scegli uno:
+	1) ottieni uno scudo di 12 salute per questo combattimento;
+	2) ottieni uno scudo di 8 salute e fornisci uno scudo di 8 salute a un altro bersaglio per questo combattimento
+Colpo solenne (2):
+	il prossimo attacco ottiene +2 forza e non può essere schivato/mancato
+Giustizia del creatore (1):
+	attacca un qualsiasi numero di bersagli vicino a te; questa abilità fa 10 danni a ciascuno, non aumentati dalle statistiche
+
+
+	BERSERKER: (le abilità guadagnano danni in base alla forza)
+Sete di sangue (2):
+	il prossimo attacco ottiene +6 forza, -1 precisione e ignora la resistenza, ma costa 5 salute
+Momento di riposo(1):
+	rigenera 18 salute a se stesso (non modificata da statistiche);
+	non può essere usato fuori dal combattimento
+Momento di riflessione(1):
+	per il prossimo attacco, se la tua statistica complessiva di precisione è -X, diventa invece +X
+
+
+	NINJA: (le abilità guadagnano danni in base alla destrezza)
+Guerriero dell'Est (abilità passiva):
+	+2 destrezza con kunai/shuriken
+Assalto delle ombre (1):
+	se qualcuno sta per attaccarti, svanisci nelle ombre e lo contrattacchi;
+	ottieni +3 schivata contro l'attacco che stai ricevendo e +3 precisione per il contrattacco;
+	il contrattacco avviene immediatamente dopo la difesa e può bersagliare solamente chi ha tentato di attaccarti;
+	il contrattacco può essere un'abilità;
+	salti la prossima fase di combattimento
+All-in (1):
+	il prossimo attacco con kunai/shuriken avrà 2 fasi di combattimento, ma ottiene -5 destrezza -3 precisione (per entrambe le fasi);
+	inoltre dopo i due attacchi i kunai/shuriken saranno esauriti (potranno essere usati di nuovo solo dopo essere stati raccolti di nuovo);
+	è possibile raccogliere i kunai/shuriken usando una fase di combattimento, oppure a combattimento finito
+Tagliagole (1):
+	5 danni;
+	se il bersaglio ha meno del 50% di salute (per eccesso), invece questa abilità fa 10 danni;
+	questa abilità può essere usata solo con un coltello
+
+
+	ARCIERE: (le abilità guadagnano danni in base alla destrezza)
+Guerriero del Nord (abilità passiva):
+	+2 destrezza con arco/balestra
+Nella mischia (2):
+	il prossimo attacco ottiene +8 destrezza, ma non si può più usare arco/balestra per il resto del combattimento;
+	questa abilità si può usare solo una volta per ogni combattimento
+Agilità dei boschi (1):
+	se qualcuno sta per infliggerti danno (dopo il lancio di schivata/precisione), puoi evitare quel danno al costo di 5 salute;
+	se in questo combattimento hai usato Nella mischia, allora questa abilità non può essere attivata
+
+
+	LADRO: (le abilità guadagnano danni in base alla destrezza)
+Guerriero dell'Ovest (abilità passiva):
+	+2 precisione con pugnali/daghe
+Inarrivabile (1):
+	se qualcuno sta per infliggerti danno (dopo il lancio di schivata/precisione), puoi evitare quel danno, ma salti la prossima fase di attacco
+Colpo basso (2):
+	il prossimo attacco ottiene -5 precisione, ma se va a segno fa saltare la prossima fase di attacco al bersaglio
+Veleno del loto (infinito):
+	il prossimo attacco non fa danni, ma causa avvelenamento;
+	l'avvelenamento causa 6 danni al turno per un massimo di 5 turni;
+	i primi danni da veleno vengono inferti immediatamente a seguito dell'abilità;
+	i danni da veleno successivi vengono inferti all'inizio della propria fase di combattimento;
+	il danno da veleno ignora la resistenza;
+	ogni bersaglio può essere avvelenato un qualsiasi numero di volte e i danni si sommano linearmente
+Abituato nelle ombre (1 per partita):
+	per il prossimo rischio ottieni +3 furto, +3 nascondersi, +3 agilità
+	questa abilità non può essere usata insieme a Sforzo
+
+
+	MAGO: (le abilità guadagnano danni in base all'intelligenza)
+Missili arcani (infinito):
+	1 danno (questo è l'attacco base del mago)
+Colpo magico (1):
+	1 danno; scegli un'altra abilità; potrai riusare tale abilità una volta, anche se ti restano 0 utilizzi per questo giorno
+Colpo trapassante (1):
+	4 danni e ignora la resistenza
+Palla di fuoco (1):
+	6 danni
+Palla d'ombra (1):
+	12 danni, -6 salute
+Insegnamento del maestro (1):
+	30 danni, ma non ottiene bonus da intelligenza
+Esplosione infuocata (1):
+	attacca un qualsiasi numero di bersagli vicino a te; questa abilità fa 15 danni a ciascuno, non aumentati dalle statistiche
+
+
+	CURATORE: (le abilità guadagnano danni in base all'intelligenza)
+Missili arcani (infinito):
+	1 danno
+Ora della battaglia (2):
+	6 danni
+Cura semplice (2):
+	rigenera 15 salute a qualsiasi bersaglio (non moficata da intelligenza);
+	questa abilità può essere usata anche fuori dal combattimento, ma in tal caso rappresenta un rischio alto di empatizzare
+Cura finale (1):
+	rigenera tutta la salute a qualasiasi bersaglio;
+	salta la prossima fase di combattimento
+	questa abilità può essere usata anche fuori dal combattimento, ma in tal caso rappresenta un rischio supremo di empatizzare
+
+
+	SPECIALISTA:
+lo specialista può scegliere 3 abilità qualsiasi dalle altre classi; per ogni classe scelta ottiene un debuff -1 a tutte le statistiche
+(esempio, se lo specialista sceglie sete di sangue e momento di riflessione del berserker e colpo solenne del guerriero, allora ottiene -2 a tutte le statistiche).
+
+
+Il numero tra parentesi () indica il numero di volte che è possibile usare tale abilità in un giorno.
+
+
+
+	EQUIPAGGIAMENTO:
+
+	1 handed weapons (main hand):
+spada: +3 forza
+fioretto: +1 forza, +1 schivata, +7 salute
+tirapugni: +5 forza, -1 schivata, -7 salute
+
+pugnale: +3 destrezza, +1 precisione, -1 schivata
+daga: +1 destrezza, +1 precisione, +7 salute
+kunai: +1 destrezza, +1 precisione, +1 schivata
+shuriken: +3 destrezza, -1 precisione, +1 schivata
+coltello: +1 destrezza, +3 precisione, -1 schivata
+
+
+	1 handed weapons (off hand):
+spadina: +1 forza, +7 salute
+
+frusta: +1 destrezza, +1 precisione
+
+scudo agile: +1 resistenza, +1 schivata
+scudo pesante: +1 resistenza, +7 salute
+guanto leggero: +1 precisione, +1 schivata
+guanto pesante: +1 schivata, +7 salute
+
+
+	2 handed weapons:
+spadone: +3 forza, +1 precisione, +1 schivata
+martello: +7 forza, -1 precisione, -1 schivata
+mazza: +5 forza, +1 precisione, -1 schivata
+
+arco leggero: +4 destrezza, +1 schivata
+arco pesante: +6 destrezza, -1 precisione
+scudarco: +2 destrezza, +1 schivata, +15 salute
+balestra: +4 destrezza, +1 precisione
+
+scettro: +5 intelligenza
+libro: +3 intelligenza, + 2 schivata
+papiro: +3 intelligenza, +2 precisione
+
+scudo legionario: +20 salute, +2 resistenza
+guanti magici: +2 precisione, +2 schivata, +7 salute
+
+Ogni giocatore inizia la partita con 1 arma a 2 mani oppure 2 armi a 1 mano. I fabbri possono migliorare le armi; aumentano del 50% (approssimato per difetto) le statistiche offerte da un'arma al costo di 6 oro (3 oro per armi a 1 mano). I fabbri possono anche vendere le armi allo stesso prezzo (6 oro per armi a 2 mani, 3 oro per armi a 1 mano).
+Nel caso si possiedano più set di armi, è possibile cambiare arma all'inizio della propria fase di combattimento.
+
+
+
+	OGGETTI:									costo:
+Pozione curativa: rigenera 10 punti vita						5
+Carne/pesce: rigenera 3 punti vita							3
+Frutta/verdura: rigenera 1 punto vita							1
+Fune: +3 agilità (può superare il massimo)						2
+Cappa: +2 nascondersi, +1 furto (può superare il massimo)				2
+Scarpe comode: +3 correre (può superare il massimo)					2
+Lanterna: +5 notare di notte e in posti bui (può superare il massimo)			2
+Giaciglio: l'abilità Riposo rigenera 4 punti vita aggiuntivi					5
+Canna da pesca: può procurare una razione di pesce 1 volta al giorno se vicini all'acqua	5
+
+
+
+	RICCHEZZA: (oro)
+10
+
+
+
+	TRATTI:
+Forza distruttrice: +4 forza, -1 precisione, -1 schivata
+Addestramento da guerriero: +1 forza, +7 salute
+Addestramento da picchiatore: +2 forza
+Addestramento in prima linea: +1 forza, +1 resistenza, -1 schivata
+Implacabile: se un oggetto/tratto dà statistiche negative, ignora tali statistiche
+
+Mira letale: +2 precisione con arco, balestra, kunai e shuriken
+Preciso e letale: +1 destrezza, +1 precisione
+Vita nei boschi: +2 destrezza
+Lanci potenti: +4 destrezza, -1 precisione, -1 schivata
+
+Magia arcana: +2 intelligenza
+Magia della luce: +1 intelligenza, +5 salute
+Magia dell'ombra: +4 intelligenza, -10 salute
+Destrezza del mago: scettro, libro e papiro sono ora armi a 1 mano (main hand)
+
+Pelle coriacea: +1 resistenza, + 7 salute
+Abituato al combattimento: +1 resistenza, +1 schivata
+Agilità divina: +1 precisione, +1 schivata
+Mira ferma: +4 precisione, -2 schivata
+Colpi in movimento: -2 precisione, +4 schivata
+Combattimento dinamico: +2 precisione, +2 schivata, -2 destrezza, -2 forza, -2 intelligenza
+Sopravvissuto: +15 salute
+Guerriero completo: +1 a tutte le statistiche, -10 salute (al netto)
+Maestro delle armi: gli effetti (positivi e negativi) delle armi sono migliorati del 50% (approssimato per difetto)
+Agile con le armi: è possibile cambiare le armi in uso in qualsiasi momento (anche in risposta agli attacchi degli altri)
+Famiglia nobile: inizia la partita con +5 ricchezza
+
+All'inizio della partita ogni giocatore sceglie 2 tratti.
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,19 @@
+	STATISTICHE:
+salute: 70
+forza: 14
+destrezza: \
+intelligenza: \	
+resistenza: 1
+precisione: 4	
+schivata: 2
+
+Chiamata alle armi (1):
+	il contadino chiama alle armi un altro contadino
+	questa abilità può essere usata solo se il contadino non è stato chiamato alle armi
+
+Difesa del territorio (abilità passiva):
+	se l'avversario decide di scappare prima del termine del combattimento, il contadino gli infliggerà 5 danni;
+	l'azione di scappare non comporterà nessun rischio
+
+Difesa del bestiame (abilità passiva):
+	se l'avversario ha ucciso/rubato un capo di bestiame, il contadino guadagna +30 salute, +1 resistenza, +3 forza

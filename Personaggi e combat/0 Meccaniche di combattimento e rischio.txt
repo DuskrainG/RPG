@@ -1,0 +1,33 @@
+Rischio:
+- chi vuole prendere un rischio deve lanciare 1d20 e sommare la propria statistica relativa al rischio
+- se tale somma supera (o è uguale a) quanto richiesto dal rischio, il rischio è superato
+- se tale somma è minore del 50% di quanto richiesto dal rischio, il rischio è fallito gravemente
+- se tale somma è compresa tra il 50% (incluso) e il 100% (escluso) di quanto richiesto dal rischio, il rischio è fallito (non gravemente)
+- è anche possibile che un rischio comporti un'interazione tra giocatori; in quel caso entrambi i giocatori lanciano per il relativo rischio e chi ottiene il punteggio maggiore vince; se il vincitore fa più del doppio del punteggio del perdente, allora la vittoria è schiacciante/la sconfitta umiliante e ci saranno effetti aggiuntivi
+
+Tipologie di rischio:
+- nessun rischio: occorre uno 0
+- rischio basso: occorre un 5
+- rischio medio: occorre un 10
+- rischio alto: occorre un 15
+- rischio estremo: occorre un 20
+- rischio supremo: occorre un 25
+
+
+Combattimento:
+- tutti i partecipanti al combattimento lanciano 1d20; i turni si susseguono in ordine di risultato decrescente
+- l'attaccante tira 1d20 + precisione
+- il difensore tira 1d20 + schivata
+- se l'attaccante ha un punteggio complessivo maggiore, l'attacco va a segno, altrimenti manca; se i punteggi sono uguali l'attacco manca, ma potrebbero esserci degli effetti collaterali (ad esempio lo scudo usato per schivare potrebbe rompersi oppure si è impossibilitati a usare una certa abilità fino alla fine del combattimento o della giornata o anche si ha una piccola riduzione delle statistiche (salute e schivata))
+
+Se l'attacco va a segno, il danno inflitto è pari a:
+- forza per attacchi fisici con spade, mazze, martelli, ...
+- destrezza per gli attacchi fisici con armi a distanza (arco, balestra, armi da lancio, ...) e armi di agilità corpo a corpo (pugnali, ...)
+- intelligenza per attacchi magici
+- se viene utilizzato un incantesimo, viene aggiunto il danno dell'incantesimo
+- ai calcoli vengono aggiunte le statistiche delle armi (un personaggio potrebbe avere un equipaggiamento aggiuntivo non in uso; ciò non modificherebbe le statistiche)
+- alla fine viene sottratta la resistenza del bersaglio
+
+Se un giocatore raggiunge 0 salute (o meno):
+- può essere aiutato da qualcun altro, ripristinando 20 punti ferita se è la prima volta che raggiunge 0 salute oggi (notare che un giocatore che subisce danni mortali e raggiunge, ad esempio, -5 hp, si rianima con 15 hp)
+- è morto definitivamente se ha già raggiunto 0 hp oggi

@@ -1,0 +1,11 @@
+	STATISTICHE:
+salute: 10
+forza: 0	
+destrezza: \ 	
+intelligenza: \ 	
+resistenza: 0	
+precisione: 0	
+schivata: 10
+
+Fuggiasco (abilità passiva):
+	se non viene uccisa nel primo turno di combattimento, allora scappa

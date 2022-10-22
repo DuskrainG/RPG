@@ -1,0 +1,77 @@
+	STATISTICHE (weapon set 1):
+salute:		bonus:
+forza:		bonus:
+destrezza:	bonus:
+intelligenza:	bonus:
+resistenza: 	bonus:
+precisione:	bonus:
+schivata:		bonus:
+
+	STATISTICHE (weapon set 2):
+salute:		bonus:
+forza:		bonus:
+destrezza:	bonus:
+intelligenza:	bonus:
+resistenza: 	bonus:
+precisione:	bonus:
+schivata:		bonus:
+
+salute attuale:
+
+Le statistiche sono determinate dalla classe scelta; i numeri tra parentesi indicano di quanto le statistiche sono aumentate quando si sale di livello. I bonus alle statistiche sono dati da equipaggiamento e armi.
+Consiglio: nel caso si vogliano usare più set di armi diverse (ad esempio set 1: arco, set 2: pugnale + scudo) conviene compilare 2 (o più) schede di statistiche in modo da poter agilmente cambiare le armi. Se il cambio di armi aumenta o diminuisce la salute, aumenta o diminuisce anche la salute attuale.
+
+
+	QUALITÀ:
+agilità: 
+nascondersi: 
+furto: 
+convincere: 
+empatizzare:
+risolutezza: 
+correre: 
+notare: 
+
+Ogni classe inizia con un predeterminato set di qualità; all'inizio della partita ogni giocatore ha 5 punti addizionali a disposizione da suddividere a piacere. Il massimo punteggio di qualità è generalmente 3; classi avvantaggiate possono arrivare a 5, mentre classi svantaggiate hanno un massimo di 1.
+
+
+	ABILITÀ:
+\
+
+
+Il numero tra parentesi () indica il numero di volte che è possibile usare tale abilità in un giorno.
+
+
+	EQUIPAGGIAMENTO:
+
+	1 handed weapons (main hand):
+\
+
+	1 handed weapons (off hand):
+\
+
+	2 handed weapons:
+\
+
+Ogni giocatore inizia la partita con 1 arma a 2 mani oppure 2 armi a 1 mano. I fabbri possono migliorare le armi; aumentano del 50% (approssimato per difetto) le statistiche offerte da un'arma al costo di 6 oro (3 oro per armi a 1 mano). I fabbri possono anche vendere le armi allo stesso prezzo (6 oro per armi a 2 mani, 3 oro per armi a 1 mano).
+Nel caso si possiedano più set di armi, è possibile cambiare arma all'inizio della propria fase di combattimento.
+
+
+	OGGETTI:
+\
+
+	RICCHEZZA: (oro)
+10
+
+
+	TRATTI:
+tratto 1:
+tratto 2:
+
+All'inizio della partita ogni giocatore sceglie 2 tratti.
+
+
+
+
+
+

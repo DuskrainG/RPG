@@ -1,0 +1,21 @@
+	STATISTICHE:
+salute: 150
+forza: 8
+destrezza: \ 	
+intelligenza: 15	
+resistenza: 1
+precisione: 2	
+schivata: 2
+
+Difensore del potere (abilità passiva): (solo custode nella torre del potere)
+	fintanto che non c'è nessun ciottolo nel crogiolo, il custode non attacca, a meno che non venga attaccato;
+	se c'è un ciottolo nel crogiolo, il custode si opporrà a chi cerca di attaccare i membri della fazione corrispondente al ciottolo
+
+Difensore della pace (abilità passiva): (solo custode nella torre della distruzione)
+	fintanto che non c'è nessun ciottolo nel crogiolo, il custode non attacca, a meno che non venga attaccato;
+	se qualcuno distrugge un ciottolo, il custode si opporrà a chi cerca di attaccare i membri della fazione che ha distrutto il ciottolo
+
+La vita per Dendris (1):
+	il custode dà la propria vita per Dendris, infliggendo danni pari alla propria intelligenza a tutti i nemici circostanti e ignorando la resistenza;
+	la definizione di nemici va vista in relazione alle abilità Difensore del potere / della pace;
+	questo attacco non può essere mancato/schivato

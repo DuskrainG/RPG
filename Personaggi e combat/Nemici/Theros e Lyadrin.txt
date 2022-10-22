@@ -1,0 +1,23 @@
+	STATISTICHE:
+salute: 220
+forza: 14
+destrezza: \ 	
+intelligenza: 20	
+resistenza: 2	
+precisione: 3
+schivata: 8
+
+Fiuto per la paura (abilità passiva):
+	all'inizio del combattimento (prima della prima fase di combattimento) gli avversari devono provare un rischio medio per risolutezza
+	chi fallisce prende 10 danni
+	chi fallisce gravemente prende 20 danni
+
+Soffio infuocato (1): (solo Lyadrin)
+	Lyadrin infligge danni pari all'intelligenza a tutti i nemici circostanti
+
+Lama della giustizia (1): (solo Theros)
+	Theros balza in aria e conficca la propria spada in un nemico, infliggendo danni pari alla somma tra forza e intelligenza e ignorando la resistenza
+
+Artiglio etereo (Lyadrin)/fendente etereo(Theros) (2):
+	il prossimo attacco ottiene +4 forza e non può essere mancato/schivato
+	

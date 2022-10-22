@@ -1,0 +1,49 @@
+	STATISTICHE:
+salute: 75 (+10)	bonus:
+forza: \		bonus: \
+destrezza: 12 (+1)	bonus:
+intelligenza: \	bonus: \
+resistenza: 0	bonus:
+precisione: 5	bonus:
+schivata: 7	bonus:
+
+
+	QUALITÀ:
+agilità: 2/5
+nascondersi: 3/5
+furto: 4/5
+convincere: 0/3
+empatizzare: -2/1
+risolutezza: -1/1
+correre: 3/5
+notare: 3/5
+
+
+	ABILITÀ:  (le abilità guadagnano danni in base alla destrezza)
+
+	TUTTE LE CLASSI:
+Attacco base (infinito):
+	0 danni
+Sforzo (1 per partita):
+	per il prossimo rischio ottieni +2 a ogni qualità
+Riposo (1):
+	rigenera 10 punti vita (non aumentato da statistiche)
+	questa abilità può essere usata solo di notte
+
+	LADRO:
+Guerriero dell'Ovest (abilità passiva):
+	+2 precisione con pugnali/daghe
+Inarrivabile (1):
+	se qualcuno sta per infliggerti danno (dopo il lancio di schivata/precisione), puoi evitare quel danno, ma salti la prossima fase di attacco
+Colpo basso (2):
+	il prossimo attacco ottiene -5 precisione, ma se va a segno fa saltare la prossima fase di attacco al bersaglio
+Veleno del loto (infinito):
+	il prossimo attacco non fa danni, ma causa avvelenamento;
+	l'avvelenamento causa 6 danni al turno per un massimo di 5 turni;
+	i primi danni da veleno vengono inferti immediatamente a seguito dell'abilità;
+	i danni da veleno successivi vengono inferti all'inizio della propria fase di combattimento;
+	il danno da veleno ignora la resistenza;
+	ogni bersaglio può essere avvelenato un qualsiasi numero di volte e i danni si sommano linearmente
+Abituato nelle ombre (1 per partita):
+	per il prossimo rischio ottieni +3 furto, +3 nascondersi, +3 agilità
+	questa abilità non può essere usata insieme a Sforzo
