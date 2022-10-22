@@ -33,9 +33,9 @@ Riposo (1):
 	GUERRIERO:
 Protezione divina (1):
 	scegli uno:
-	1) ottieni uno scudo di 12 salute per questo combattimento;
-	2) ottieni uno scudo di 8 salute e fornisci uno scudo di 8 salute a un altro bersaglio per questo combattimento
+	1) ottieni uno scudo di 15 salute per questo combattimento;
+	2) ottieni uno scudo di 10 salute e fornisci uno scudo di 10 salute a un altro bersaglio per questo combattimento
 Colpo solenne (2):
-	il prossimo attacco ottiene +2 forza e non può essere schivato/mancato
+	il prossimo attacco non può essere schivato/mancato
 Giustizia del creatore (1):
 	attacca un qualsiasi numero di bersagli vicino a te; questa abilità fa 10 danni a ciascuno, non aumentati dalle statistiche

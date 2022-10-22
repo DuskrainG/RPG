@@ -1,25 +1,25 @@
-	STATISTICHE:
+	STATISTICHE (arco):
 salute: 65	(+9)	bonus:
 forza: \		bonus: \
-destrezza: 16 (+2)	bonus:
+destrezza: 15 (+2)	bonus: +12
 intelligenza: \	bonus: \
 resistenza: 0	bonus:
 precisione: 6	bonus:
-schivata: 6	bonus:
+schivata: 3	bonus:
+
+	STATISTICHE (pugnale + frusta):
+salute: 65	(+9)	bonus:
+forza: \		bonus: \
+destrezza: 15 (+2)	bonus: +6
+intelligenza: \	bonus: \
+resistenza: 0	bonus:
+precisione: 6	bonus: +3
+schivata: 3	bonus: -1
+
+salute attuale: 65
 
 
-	QUALITÀ:
-agilità: 3/5
-nascondersi: 2/5
-furto: 0/3
-convincere: 0/3
-empatizzare: -1/1
-risolutezza: 0/3
-correre: 1/3
-notare: 3/5
-
-
-	QUALITÀ:  (le abilità guadagnano danni in base alla destrezza)
+	ABILITÀ:  (le abilità guadagnano danni in base alla destrezza)
 
 	TUTTE LE CLASSI:
 Attacco base (infinito):
@@ -44,17 +44,17 @@ Agilità dei boschi (1):
 	EQUIPAGGIAMENTO:
 
 	1 handed weapons (main hand):
-\
+pugnale: +3 destrezza, +1 precisione, -1 schivata
 
 	1 handed weapons (off hand):
-\
+frusta: +1 destrezza, +1 precisione
 
 	2 handed weapons:
-\
+arco pesante: +6 destrezza, -1 precisione
 
 
 	TRATTI:
-tratto 1:
-tratto 2:
+tratto 1: Maestro delle armi: gli effetti (positivi e negativi) delle armi sono migliorati del 50% (approssimato per difetto)
+tratto 2: Preciso e letale: +1 destrezza, +1 precisione
 
 All'inizio della partita ogni giocatore sceglie 2 tratti.

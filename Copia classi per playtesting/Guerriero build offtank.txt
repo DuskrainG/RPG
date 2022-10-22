@@ -1,22 +1,13 @@
 	STATISTICHE:
-salute: 100 (+15)	bonus:
-forza: 13 (+2)	bonus:
+salute: 100 (+15)	bonus: +7
+forza: 13 (+2)	bonus: +5
 destrezza: \	bonus: \
 intelligenza: \	bonus: \
-resistenza: 2	bonus:
-precisione: 5	bonus:
+resistenza: 2	bonus: +1
+precisione: 5	bonus: +1
 schivata: 1	bonus:
 
-
-	QUALITÀ:
-agilità: 0/3
-nascondersi: 0/3
-furto: 0/3
-convincere: 2/5
-empatizzare: 1/3
-risolutezza: 4/5
-correre: -1/1
-notare: 0/3
+salute attuale: 107
 
 
 	ABILITÀ:  (le abilità guadagnano danni in base alla forza)
@@ -33,10 +24,10 @@ Riposo (1):
 	GUERRIERO:
 Protezione divina (1):
 	scegli uno:
-	1) ottieni uno scudo di 12 salute per questo combattimento;
-	2) ottieni uno scudo di 8 salute e fornisci uno scudo di 8 salute a un altro bersaglio per questo combattimento
+	1) ottieni uno scudo di 15 salute per questo combattimento;
+	2) ottieni uno scudo di 10 salute e fornisci uno scudo di 10 salute a un altro bersaglio per questo combattimento
 Colpo solenne (2):
-	il prossimo attacco ottiene +2 forza e non può essere schivato/mancato
+	il prossimo attacco non può essere schivato/mancato
 Giustizia del creatore (1):
 	attacca un qualsiasi numero di bersagli vicino a te; questa abilità fa 10 danni a ciascuno, non aumentati dalle statistiche
 
@@ -50,11 +41,11 @@ Giustizia del creatore (1):
 \
 
 	2 handed weapons:
-\
+spadone: +3 forza, +1 precisione, +1 schivata
 
 
 	TRATTI:
-tratto 1:
-tratto 2:
+tratto 1: Addestramento in prima linea: +1 forza, +1 resistenza, -1 schivata
+tratto 2: Addestramento da guerriero: +1 forza, +7 salute
 
 All'inizio della partita ogni giocatore sceglie 2 tratti.

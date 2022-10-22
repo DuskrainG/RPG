@@ -1,0 +1,27 @@
+Forza distruttrice: +4 forza, -1 precisione, -1 schivata
+Addestramento da guerriero: +1 forza, +7 salute
+Addestramento da picchiatore: +2 forza
+Addestramento in prima linea: +1 forza, +1 resistenza, -1 schivata
+Implacabile: se un oggetto/tratto dà statistiche negative, ignora tali statistiche
+
+Mira letale: +2 precisione con arco, balestra, kunai e shuriken
+Preciso e letale: +1 destrezza, +1 precisione
+Vita nei boschi: +2 destrezza
+Lanci potenti: +4 destrezza, -1 precisione, -1 schivata
+
+Magia arcana: +2 intelligenza
+Magia della luce: +1 intelligenza, +5 salute
+Magia dell'ombra: +4 intelligenza, -10 salute
+Destrezza del mago: scettro, libro e papiro sono ora armi a 1 mano (main hand)
+
+Pelle coriacea: +1 resistenza, + 7 salute
+Abituato al combattimento: +1 resistenza, +1 schivata
+Agilità divina: +1 precisione, +1 schivata
+Mira ferma: +4 precisione, -2 schivata
+Colpi in movimento: -2 precisione, +4 schivata
+Combattimento dinamico: +2 precisione, +2 schivata, -4 destrezza, -4 forza, -4 intelligenza
+Sopravvissuto: +15 salute
+Guerriero completo: +1 a tutte le statistiche, -10 salute (al netto)
+Maestro delle armi: gli effetti (positivi e negativi) delle armi sono migliorati del 50% (approssimato per difetto)
+Agile con le armi: è possibile cambiare le armi in uso in qualsiasi momento (anche in risposta agli attacchi degli altri)
+Famiglia nobile: inizia la partita con +5 ricchezza
