@@ -16,7 +16,7 @@ resistenza: 0	bonus: -
 precisione: 6	bonus: +6
 schivata:	5	bonus: +3
 
-salute attuale: 65
+salute attuale: 65 -- 60 (1) -- 55 (2) -- 45 (3, 1) -- 35 (2) -- 23 -- 18 (3) -- 5 -- 0
 
 
 	ABILITÀ: (le abilità guadagnano danni in base alla destrezza)

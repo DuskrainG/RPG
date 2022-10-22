@@ -7,6 +7,8 @@ resistenza: 0	bonus: +1
 precisione: 4	bonus: +2
 schivata: 5	bonus: +6
 
+salute attuale: 77
+
 
 	ABILITÀ:  (le abilità guadagnano danni in base alla destrezza)
 
@@ -28,10 +30,10 @@ Colpo basso (2):
 	il prossimo attacco ottiene -5 precisione, ma se va a segno fa saltare la prossima fase di attacco al bersaglio
 Veleno del loto (infinito):
 	il prossimo attacco non fa danni, ma causa avvelenamento;
-	l'avvelenamento causa 6 danni al turno per un massimo di 5 turni;
+	l'avvelenamento causa 5 danni al turno per un massimo di 5 turni;
 	i primi danni da veleno vengono inferti immediatamente a seguito dell'abilità;
 	i danni da veleno successivi vengono inferti all'inizio della propria fase di combattimento;
-	il danno da veleno ignora la resistenza;
+	il danno da veleno ignora la resistenza e non viene modificato dalle statistiche;
 	ogni bersaglio può essere avvelenato un qualsiasi numero di volte e i danni si sommano linearmente
 Abituato nelle ombre (1 per partita):
 	per il prossimo rischio ottieni +3 furto, +3 nascondersi, +3 agilità
