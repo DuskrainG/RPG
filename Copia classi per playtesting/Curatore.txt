@@ -1,0 +1,63 @@
+	STATISTICHE:
+salute: 80	 (+10)	bonus:
+forza: \		bonus: \
+destrezza: \	bonus: \
+intelligenza: 12 (+1)	bonus:
+resistenza: 1	bonus:
+precisione: 5	bonus:
+schivata: 5 	bonus:
+
+
+	QUALITÀ:
+agilità: 0/3
+nascondersi: 2/5
+furto: 0/1
+convincere: 1/3
+empatizzare: 4/5
+risolutezza: 0/3
+correre: 3/5
+notare: 0/3
+
+
+	ABILITÀ:  (le abilità guadagnano danni in base all'intelligenza)
+
+	TUTTE LE CLASSI:
+Attacco base (infinito):
+	0 danni
+Sforzo (1 per partita):
+	per il prossimo rischio ottieni +2 a ogni qualità
+Riposo (1):
+	rigenera 10 punti vita (non aumentato da statistiche)
+	questa abilità può essere usata solo di notte
+
+	CURATORE:
+Missili arcani (infinito):
+	1 danno
+Ora della battaglia (2):
+	6 danni
+Cura semplice (2):
+	rigenera 15 salute a qualsiasi bersaglio (non moficata da intelligenza);
+	questa abilità può essere usata anche fuori dal combattimento, ma in tal caso rappresenta un rischio alto di empatizzare
+Cura finale (1):
+	rigenera tutta la salute a qualasiasi bersaglio;
+	salta la prossima fase di combattimento
+	questa abilità può essere usata anche fuori dal combattimento, ma in tal caso rappresenta un rischio supremo di empatizzare
+
+
+	EQUIPAGGIAMENTO:
+
+	1 handed weapons (main hand):
+\
+
+	1 handed weapons (off hand):
+\
+
+	2 handed weapons:
+\
+
+
+	TRATTI:
+tratto 1:
+tratto 2:
+
+All'inizio della partita ogni giocatore sceglie 2 tratti.

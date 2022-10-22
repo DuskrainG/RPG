@@ -1,0 +1,69 @@
+	STATISTICHE (kunai):
+salute: 75 (+10)	bonus: -10
+forza: \ 		bonus: \
+destrezza: 15 (+2)	bonus: +1
+intelligenza: \	bonus: \
+resistenza: 0	bonus: -
+precisione: 6	bonus: +5
+schivata:	5	bonus: +5
+
+	STATISTICHE (coltello):
+salute: 75 (+10)	bonus: -10
+forza: \ 		bonus: \
+destrezza: 15 (+2)	bonus: -2
+intelligenza: \	bonus: \
+resistenza: 0	bonus: -
+precisione: 6	bonus: +7
+schivata:	5	bonus: +3
+
+salute attuale: 65
+
+
+	ABILITÀ: (le abilità guadagnano danni in base alla destrezza)
+
+	TUTTE LE CLASSI:
+Attacco base (infinito):
+	0 danni
+Sforzo (1 per partita):
+	per il prossimo rischio ottieni +2 a ogni qualità
+Riposo (1):
+	rigenera 10 punti vita (non aumentato da statistiche)
+	questa abilità può essere usata solo di notte
+
+	NINJA:
+Guerriero dell'Est (abilità passiva):
+	+2 destrezza con kunai/shuriken
+Assalto delle ombre (1):
+	se qualcuno sta per attaccarti, svanisci nelle ombre e lo contrattacchi;
+	ottieni +3 schivata contro l'attacco che stai ricevendo e +3 precisione per il contrattacco;
+	il contrattacco avviene immediatamente dopo la difesa e può bersagliare solamente chi ha tentato di attaccarti;
+	il contrattacco può essere un'abilità;
+	salti la prossima fase di combattimento
+All-in (1):
+	il prossimo attacco con kunai/shuriken avrà 2 fasi di combattimento, ma ottiene -5 destrezza -3 precisione (per entrambe le fasi);
+	inoltre dopo i due attacchi i kunai/shuriken saranno esauriti (potranno essere usati di nuovo solo dopo essere stati raccolti di nuovo);
+	è possibile raccogliere i kunai/shuriken usando una fase di combattimento, oppure a combattimento finito
+Tagliagole (1):
+	5 danni;
+	se il bersaglio ha meno del 50% di salute (per eccesso), invece questa abilità fa 10 danni;
+	questa abilità può essere usata solo con un coltello
+
+
+	EQUIPAGGIAMENTO:
+
+	1 handed weapons (main hand):
+kunai: +1 destrezza, +1 precisione, +1 schivata
+coltello: +2 destrezza, +2 precisione, -1 schivata
+
+	1 handed weapons (off hand):
+guanto leggero: +1 precisione, +1 schivata
+
+	2 handed weapons:
+\
+
+
+	TRATTI:
+tratto 1: Combattimento dinamico: +2 precisione, +2 schivata, -2 destrezza, -2 forza, -2 intelligenza
+tratto 2: Guerriero completo: +1 a tutte le statistiche, -10 salute (al netto)
+
+All'inizio della partita ogni giocatore sceglie 2 tratti.

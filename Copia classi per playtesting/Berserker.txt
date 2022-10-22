@@ -1,0 +1,50 @@
+	STATISTICHE:
+salute: 85 (+12)	bonus: 
+forza: 22	(+2)	bonus: +11
+destrezza: \	bonus: \
+intelligenza: \	bonus: \
+resistenza: 1	bonus:
+precisione: -2	bonus:
+schivata: 2	bonus:
+
+salute attuale: 85
+
+
+ 	ABILITÀ: (le abilità guadagnano danni in base alla forza)
+
+	TUTTE LE CLASSI:
+Attacco base (infinito):
+	0 danni
+Sforzo (1 per partita):
+	per il prossimo rischio ottieni +2 a ogni qualità
+Riposo (1):
+	rigenera 10 punti vita (non aumentato da statistiche)
+	questa abilità può essere usata solo di notte
+
+	BERSERKER:
+Sete di sangue (2):
+	il prossimo attacco ottiene +6 forza, -1 precisione e ignora la resistenza, ma costa 5 salute
+Momento di riposo(1):
+	rigenera 18 salute a se stesso (non modificata da statistiche);
+	non può essere usato fuori dal combattimento
+Momento di riflessione(1):
+	per il prossimo attacco, se la tua statistica complessiva di precisione è -X, diventa invece +X
+
+
+	EQUIPAGGIAMENTO:
+
+	1 handed weapons (main hand):
+\
+
+	1 handed weapons (off hand):
+\
+
+	2 handed weapons:
+martello: +7 forza, -1 precisione, -1 schivata
+
+
+	TRATTI:
+tratto 1: Forza distruttrice: +4 forza, -1 precisione, -1 schivata
+tratto 2: Implacabile: se un oggetto/tratto dà statistiche negative, ignora tali statistiche
+
+All'inizio della partita ogni giocatore sceglie 2 tratti.

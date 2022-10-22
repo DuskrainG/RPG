@@ -1,0 +1,64 @@
+	STATISTICHE:
+salute: 70	 (+9)	bonus:
+forza: \		bonus: \
+destrezza: \	bonus: \
+intelligenza: 15 (+2)	bonus:
+resistenza: -1	bonus:
+precisione: 5	bonus:
+schivata:	3	bonus:
+
+
+	QUALITÀ:
+agilità: 0/3
+nascondersi: 1/3 
+furto: 0/3
+convincere: 1/3
+empatizzare: 2/5
+risolutezza: 0/3
+correre: 1/3
+notare: 4/5
+
+
+	ABILITÀ:  (le abilità guadagnano danni in base all'intelligenza)
+
+	TUTTE LE CLASSI:
+Sforzo (1 per partita):
+	per il prossimo rischio ottieni +2 a ogni qualità
+Riposo (1):
+	rigenera 10 punti vita (non aumentato da statistiche)
+	questa abilità può essere usata solo di notte
+
+	MAGO:
+Missili arcani (infinito):
+	1 danno (questo è l'attacco base del mago)
+Colpo magico (1):
+	1 danno; scegli un'altra abilità; potrai riusare tale abilità una volta, anche se ti restano 0 utilizzi per questo giorno
+Colpo trapassante (1):
+	4 danni e ignora la resistenza
+Palla di fuoco (1):
+	6 danni
+Palla d'ombra (1):
+	12 danni, -6 salute
+Insegnamento del maestro (1):
+	30 danni, ma non ottiene bonus da intelligenza
+Esplosione infuocata (1):
+	attacca un qualsiasi numero di bersagli vicino a te; questa abilità fa 15 danni a ciascuno, non aumentati dalle statistiche
+
+
+	EQUIPAGGIAMENTO:
+
+	1 handed weapons (main hand):
+\
+
+	1 handed weapons (off hand):
+\
+
+	2 handed weapons:
+\
+
+
+	TRATTI:
+tratto 1:
+tratto 2:
+
+All'inizio della partita ogni giocatore sceglie 2 tratti.

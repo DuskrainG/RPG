@@ -1,0 +1,60 @@
+	STATISTICHE:
+salute: 100 (+15)	bonus:
+forza: 13 (+2)	bonus:
+destrezza: \	bonus: \
+intelligenza: \	bonus: \
+resistenza: 2	bonus:
+precisione: 5	bonus:
+schivata: 1	bonus:
+
+
+	QUALITÀ:
+agilità: 0/3
+nascondersi: 0/3
+furto: 0/3
+convincere: 2/5
+empatizzare: 1/3
+risolutezza: 4/5
+correre: -1/1
+notare: 0/3
+
+
+	ABILITÀ:  (le abilità guadagnano danni in base alla forza)
+
+	TUTTE LE CLASSI:
+Attacco base (infinito):
+	0 danni
+Sforzo (1 per partita):
+	per il prossimo rischio ottieni +2 a ogni qualità
+Riposo (1):
+	rigenera 10 punti vita (non aumentato da statistiche)
+	questa abilità può essere usata solo di notte
+
+	GUERRIERO:
+Protezione divina (1):
+	scegli uno:
+	1) ottieni uno scudo di 12 salute per questo combattimento;
+	2) ottieni uno scudo di 8 salute e fornisci uno scudo di 8 salute a un altro bersaglio per questo combattimento
+Colpo solenne (2):
+	il prossimo attacco ottiene +2 forza e non può essere schivato/mancato
+Giustizia del creatore (1):
+	attacca un qualsiasi numero di bersagli vicino a te; questa abilità fa 10 danni a ciascuno, non aumentati dalle statistiche
+
+
+	EQUIPAGGIAMENTO:
+
+	1 handed weapons (main hand):
+\
+
+	1 handed weapons (off hand):
+\
+
+	2 handed weapons:
+\
+
+
+	TRATTI:
+tratto 1:
+tratto 2:
+
+All'inizio della partita ogni giocatore sceglie 2 tratti.

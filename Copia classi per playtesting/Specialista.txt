@@ -1,0 +1,52 @@
+Lo specialista va buildato custom. Contatta il GM.
+
+	STATISTICHE:
+salute:		bonus:
+forza:		bonus:
+destrezza:	bonus:
+intelligenza:	bonus:
+precisione:	bonus:
+schivata:		bonus:
+
+
+	QUALITÀ:
+agilità: 
+nascondersi: 
+furto: 
+convincere: 
+empatizzare:
+risolutezza: 
+scappare: 
+notare: 
+
+	ABILITÀ:
+
+Attacco base (infinito):
+	0 danni
+Sforzo (1 per partita):
+	per il prossimo rischio ottieni +2 a ogni qualità
+Riposo (1):
+	rigenera 10 punti vita (non aumentato da statistiche)
+	questa abilità può essere usata solo di notte
+
+lo specialista può scegliere 3 abilità qualsiasi dalle altre classi; per ogni classe scelta ottiene un debuff -1 a tutte le statistiche
+(esempio, se lo specialista sceglie sete di sangue e momento di riflessione del berserker e colpo solenne del guerriero, allora ottiene -2 a tutte le statistiche).
+
+
+	EQUIPAGGIAMENTO:
+
+	1 handed weapons (main hand):
+\
+
+	1 handed weapons (off hand):
+\
+
+	2 handed weapons:
+\
+
+
+	TRATTI:
+tratto 1:
+tratto 2:
+
+All'inizio della partita ogni giocatore sceglie 2 tratti.
