@@ -19,7 +19,7 @@ Abituato al combattimento: +1 resistenza, +1 schivata
 Agilità divina: +1 precisione, +1 schivata
 Mira ferma: +4 precisione, -2 schivata
 Colpi in movimento: -2 precisione, +4 schivata
-Combattimento dinamico: +2 precisione, +2 schivata, -2 destrezza, -2 forza, -2 intelligenza
+Combattimento dinamico: +2 precisione, +2 schivata, -4 destrezza, -4 forza, -4 intelligenza
 Sopravvissuto: +15 salute
 Guerriero completo: +1 a tutte le statistiche, -10 salute (al netto)
 Maestro delle armi: gli effetti (positivi e negativi) delle armi sono migliorati del 50% (approssimato per difetto)

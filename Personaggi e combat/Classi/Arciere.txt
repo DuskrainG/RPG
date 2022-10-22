@@ -5,7 +5,7 @@ destrezza: 16 (+2)	bonus:
 intelligenza: \	bonus: \
 resistenza: 0	bonus:
 precisione: 6	bonus:
-schivata: 6	bonus:
+schivata: 4	bonus:
 
 
 	QUALITÀ:

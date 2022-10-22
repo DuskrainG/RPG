@@ -1,7 +1,7 @@
 	STATISTICHE (kunai):
 salute: 75 (+10)	bonus: -10
 forza: \ 		bonus: \
-destrezza: 15 (+2)	bonus: +1
+destrezza: 15 (+2)	bonus: -1
 intelligenza: \	bonus: \
 resistenza: 0	bonus: -
 precisione: 6	bonus: +5
@@ -13,7 +13,7 @@ forza: \ 		bonus: \
 destrezza: 15 (+2)	bonus: -2
 intelligenza: \	bonus: \
 resistenza: 0	bonus: -
-precisione: 6	bonus: +7
+precisione: 6	bonus: +6
 schivata:	5	bonus: +3
 
 salute attuale: 65
@@ -63,7 +63,7 @@ guanto leggero: +1 precisione, +1 schivata
 
 
 	TRATTI:
-tratto 1: Combattimento dinamico: +2 precisione, +2 schivata, -2 destrezza, -2 forza, -2 intelligenza
+tratto 1: Combattimento dinamico: +2 precisione, +2 schivata, -4 destrezza, -4 forza, -4 intelligenza
 tratto 2: Guerriero completo: +1 a tutte le statistiche, -10 salute (al netto)
 
 All'inizio della partita ogni giocatore sceglie 2 tratti.

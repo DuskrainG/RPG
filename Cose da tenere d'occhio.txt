@@ -1,0 +1,3 @@
+Colpi in movimento: -2 precisione, +4 schivata		forse troppo forte
+guanto leggero: +1 precisione, +1 schivata		forse troppo forte
+guanti magici: +2 precisione, +2 schivata, +7 salute	interessante, ma sus

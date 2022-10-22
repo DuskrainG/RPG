@@ -1,22 +1,11 @@
 	STATISTICHE:
-salute: 75 (+10)	bonus:
+salute: 70 (+9)	bonus: +7
 forza: \		bonus: \
-destrezza: 12 (+1)	bonus:
+destrezza: 12 (+1)	bonus: +1
 intelligenza: \	bonus: \
-resistenza: 0	bonus:
-precisione: 5	bonus:
-schivata: 7	bonus:
-
-
-	QUALITÀ:
-agilità: 2/5
-nascondersi: 3/5
-furto: 4/5
-convincere: 0/3
-empatizzare: -2/1
-risolutezza: -1/1
-correre: 3/5
-notare: 3/5
+resistenza: 0	bonus: +1
+precisione: 4	bonus: +2
+schivata: 5	bonus: +6
 
 
 	ABILITÀ:  (le abilità guadagnano danni in base alla destrezza)
@@ -52,17 +41,17 @@ Abituato nelle ombre (1 per partita):
 	EQUIPAGGIAMENTO:
 
 	1 handed weapons (main hand):
-\
+daga: +1 destrezza, +1 precisione, +7 salute
 
 	1 handed weapons (off hand):
-\
+guanto leggero: +1 precisione, +1 schivata
 
 	2 handed weapons:
 \
 
 
 	TRATTI:
-tratto 1:
-tratto 2:
+tratto 1: Colpi in movimento: -2 precisione, +4 schivata
+tratto 2: Abituato al combattimento: +1 resistenza, +1 schivata
 
 All'inizio della partita ogni giocatore sceglie 2 tratti.
