@@ -3,15 +3,27 @@ Rischio:
 - se tale somma supera (o è uguale a) quanto richiesto dal rischio, il rischio è superato
 - se tale somma è minore del 50% di quanto richiesto dal rischio, il rischio è fallito gravemente
 - se tale somma è compresa tra il 50% (incluso) e il 100% (escluso) di quanto richiesto dal rischio, il rischio è fallito (non gravemente)
-- è anche possibile che un rischio comporti un'interazione tra giocatori; in quel caso entrambi i giocatori lanciano per il relativo rischio e chi ottiene il punteggio maggiore vince; se il vincitore fa più del doppio del punteggio del perdente, allora la vittoria è schiacciante/la sconfitta umiliante e ci saranno effetti aggiuntivi
 
-Tipologie di rischio:
+Livelli di rischio:
 - nessun rischio: occorre uno 0
 - rischio basso: occorre un 5
 - rischio medio: occorre un 10
 - rischio alto: occorre un 15
 - rischio estremo: occorre un 20
 - rischio supremo: occorre un 25
+
+Rischio tra giocatori, schema attaccante/difensore:
+- se un rischio comporta un'interazione tra giocatori, entrambi i giocatori lanciano per il relativo rischio;
+- le tipologie e i livelli di rischio non sono necessariamente gli stessi: ad esempio se un ladro volesse rubare un'arma a un altro giocatore, questo sarebbe un rischio estremo di Furto per tentare il furto, ma sarebbe un rischio medio di Notare per accorgersi del furto in atto;
+- in uno schema attaccante/difensore, l'attaccante è il primo a dover lanciare: se fallisce, il rischio è immediatamente fallito (indipendentemente dal lancio del difensore);
+- se l'attaccante invece riesce a portare a compimento il proprio rischio, allora il difensore dovrà lanciare il proprio rischio per tentare una difesa
+- l'attaccante dunque ha bisogno non solo di vincere il proprio rischio, ma anche che il difensore fallisca il proprio
+- è anche possibile che uno dei due giocatori o entrambi debbano superare più di un livello di rischio per portare a termine l'azione: in questo caso è possibile ottenere dei risultati parziali nel caso venga superato solamente uno dei due (o più) rischi (esempio: un giocatore vuole scappare da un altro arrampicandosi su un albero e nascondendosi tra le fronde; è possibile che riesca ad arrampicarsi, ma non a nascondersi)
+
+Rischio tra giocatori, schema sfida alla pari:
+- ci sono situazioni descrivibili come una sfida alla pari: ad esempio due giocatori possono voler inseguire uno stesso bersaglio o arrivare per primi a una certa destinazione;
+- in questo caso entrambi i giocatori lanciano i dadi contemporaneamente;
+- generalmente il livello di rischio coincide per entrambi i giocatori, mentre la tipologia può dipendere dall'approccio scelto dal giocatore
 
 
 Combattimento:
