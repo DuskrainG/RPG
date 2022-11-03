@@ -1,11 +1,11 @@
 	STATISTICHE:
-salute: 70	 (+9)	bonus:
-forza: \		bonus: \
-destrezza: \	bonus: \
+salute: 70	 (+9)		bonus:
+forza: \			bonus: \
+destrezza: \		bonus: \
 intelligenza: 15 (+2)	bonus:
-resistenza: -1	bonus:
-precisione: 5	bonus:
-schivata:	3	bonus:
+resistenza: -1		bonus:
+precisione: 5		bonus:
+schivata:	3		bonus:
 
 
 	QUALITÀ:

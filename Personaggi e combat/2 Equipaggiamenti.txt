@@ -17,8 +17,8 @@ frusta: +1 destrezza, +1 precisione
 
 scudo agile: +1 resistenza, +1 schivata
 scudo pesante: +1 resistenza, +7 salute
-guanto leggero: +1 precisione, +1 schivata
-guanto pesante: +1 schivata, +7 salute
+guanto comodo: +1 precisione, +7 salute
+guanto agile: +1 schivata, +7 salute
 
 
 	2 handed weapons:
@@ -30,13 +30,15 @@ arco leggero: +4 destrezza, +1 schivata
 arco pesante: +6 destrezza, -1 precisione
 scudarco: +2 destrezza, +1 schivata, +15 salute
 balestra: +4 destrezza, +1 precisione
+moschetto: +3 destrezza, +2 precisione
+archibugio: +5 destrezza
 
 scettro: +5 intelligenza
 libro: +3 intelligenza, + 2 schivata
 papiro: +3 intelligenza, +2 precisione
 
 scudo legionario: +20 salute, +2 resistenza
-guanti magici: +2 precisione, +2 schivata, +7 salute
+guanti magici: +2 precisione, +2 schivata
 
 
 Ogni giocatore inizia la partita con 1 arma a 2 mani oppure 2 armi a 1 mano. I fabbri possono migliorare le armi; aumentano del 50% (approssimato per difetto) le statistiche offerte da un'arma al costo di 6 oro (3 oro per armi a 1 mano). I fabbri possono anche vendere le armi allo stesso prezzo (6 oro per armi a 2 mani, 3 oro per armi a 1 mano).

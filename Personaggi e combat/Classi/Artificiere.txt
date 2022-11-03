@@ -1,0 +1,52 @@
+	STATISTICHE:
+salute: 80	 (+10)		bonus:
+forza: \			bonus: \
+destrezza: 13 (+1)		bonus: 
+intelligenza: \		bonus: \
+resistenza: 1		bonus:
+precisione: 0		bonus:
+schivata: 5		bonus:
+
+
+	QUALITÀ:
+agilità: 0/3
+nascondersi: -1/1 
+furto: 1/3
+convincere: -1/1
+empatizzare: 0/1
+risolutezza: 0/3
+correre: 5/5
+notare: 3/5
+
+
+	ABILITÀ:  (le abilità guadagnano danni in base alla destrezza)
+
+	TUTTE LE CLASSI:
+Attacco base (infinito):
+	0 danni
+Sforzo (1 per partita):
+	per il prossimo rischio ottieni +2 a ogni qualità
+Riposo (1):
+	rigenera 10 punti vita (non aumentato da statistiche)
+	questa abilità può essere usata solo di notte
+
+	ARTIFICIERE:
+Sparo (infinito):
+	0 danni;
+	i danni bonus di questa abilità sono pari al doppio della destrezza;
+	questa abilità può essere usata solo con un'arma da fuoco (moschetto, archibugio);
+	questa abilità può essere usata solo se l'arma è carica
+Ricarica (infinito):
+	ricarica l'arma da fuoco;
+	questa abilità può essere usata anche fuori dal combattimento
+Bombaaaaaaa (2):
+	piazza una bomba e mettiti a correre;
+	la bomba fa 20 danni (non aumentati dalle statistiche) a tutti i nemici colpiti;
+	la bomba colpisce tutti i nemici nella zona che non riescono a sfuggire;
+	sfuggire alla bomba è un rischio alto (15) di correre (i nemici che non hanno la qualità correre, hanno correre = 0);
+	se il rischio è fallito gravemente (<=7), la bomba fa il doppio dei danni;
+	la bomba può danneggiare anche chi l'ha piazzata
+
+
+
+

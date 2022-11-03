@@ -1,20 +1,20 @@
 	STATISTICHE (weapon set 1):
-salute:		bonus:
-forza:		bonus:
-destrezza:	bonus:
-intelligenza:	bonus:
-resistenza: 	bonus:
-precisione:	bonus:
-schivata:		bonus:
+salute:			bonus:
+forza:			bonus:
+destrezza:		bonus:
+intelligenza:		bonus:
+resistenza: 		bonus:
+precisione:		bonus:
+schivata:			bonus:
 
 	STATISTICHE (weapon set 2):
-salute:		bonus:
-forza:		bonus:
-destrezza:	bonus:
-intelligenza:	bonus:
-resistenza: 	bonus:
-precisione:	bonus:
-schivata:		bonus:
+salute:			bonus:
+forza:			bonus:
+destrezza:		bonus:
+intelligenza:		bonus:
+resistenza: 		bonus:
+precisione:		bonus:
+schivata:			bonus:
 
 salute attuale:
 livello: 1

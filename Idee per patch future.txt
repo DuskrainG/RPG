@@ -1,0 +1,9 @@
+	PATCH FUTURE:s
+
+Nuova classe: Evocatore:
+	evoca famigli che combattono al tuo servigio; ottieni bonus in base ai famigli presenti in battaglia
+
+Nuovo oggetto: Piccione viaggiatore:
+	manda messaggi a giocatori in diverse parti della mappa
+
+Nuove ambientazioni e nuovi capitoli della storia

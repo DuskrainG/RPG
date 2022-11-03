@@ -4,7 +4,7 @@ Addestramento da picchiatore: +2 forza
 Addestramento in prima linea: +1 forza, +1 resistenza, -1 schivata
 Implacabile: se un oggetto/tratto dà statistiche negative, ignora tali statistiche
 
-Mira letale: +2 precisione con arco, balestra, kunai e shuriken
+Mira letale: +2 precisione con arco, balestra, kunai, shuriken, archibugio e moschetto
 Preciso e letale: +1 destrezza, +1 precisione
 Vita nei boschi: +2 destrezza
 Lanci potenti: +4 destrezza, -1 precisione, -1 schivata

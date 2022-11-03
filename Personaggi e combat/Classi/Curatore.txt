@@ -1,11 +1,11 @@
 	STATISTICHE:
-salute: 80	 (+10)	bonus:
-forza: \		bonus: \
-destrezza: \	bonus: \
+salute: 80	 (+10)		bonus:
+forza: \			bonus: \
+destrezza: \		bonus: \
 intelligenza: 12 (+1)	bonus:
-resistenza: 1	bonus:
-precisione: 5	bonus:
-schivata: 5 	bonus:
+resistenza: 1		bonus:
+precisione: 5		bonus:
+schivata: 5 		bonus:
 
 
 	QUALITÀ:
@@ -37,8 +37,8 @@ Ora della battaglia (2):
 	6 danni
 Cura semplice (2):
 	rigenera 15 salute a qualsiasi bersaglio (non moficata da intelligenza);
-	questa abilità può essere usata anche fuori dal combattimento, ma in tal caso rappresenta un rischio alto di empatizzare
+	questa abilità può essere usata anche fuori dal combattimento, ma in tal caso rappresenta un rischio alto (15) di empatizzare
 Cura finale (1):
 	rigenera tutta la salute a qualasiasi bersaglio;
 	salta la prossima fase di combattimento
-	questa abilità può essere usata anche fuori dal combattimento, ma in tal caso rappresenta un rischio supremo di empatizzare
+	questa abilità può essere usata anche fuori dal combattimento, ma in tal caso rappresenta un rischio supremo (25) di empatizzare
