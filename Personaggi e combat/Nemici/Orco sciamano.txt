@@ -1,0 +1,28 @@
+	STATISTICHE:
+salute: 140
+forza: \
+destrezza: \ 	
+intelligenza: 17	
+resistenza: 1	
+precisione: 5
+schivata: 4
+
+salute attuale: 140
+exp: 600
+
+danni inflitti con veleno: 0
+
+
+Scettro dei boschi (infinito):
+	1 danno
+
+Aria putrida (1):
+	avvelena tutti i nemici, infliggendo 1 danno al turno;
+	questa abilità non può essere schivata/mancata;
+	l'avvelenamento causa 1 danno al turno fino alla fine del combattimento;
+	i primi danni da veleno vengono inferti immediatamente a seguito dell'abilità;
+	i danni da veleno successivi vengono inferti, contemportanamente a tutti i nemici, all'inizio della propria fase di combattimento;
+	il danno da veleno ignora la resistenza e non viene modificato dalle statistiche
+
+Magia Voodoo (1):
+	ogni avversario che ha perso salute durante questo combattimento, perde altrettanti punti salute

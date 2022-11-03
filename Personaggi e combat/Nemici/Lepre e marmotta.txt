@@ -7,5 +7,8 @@ resistenza: 0
 precisione: 0	
 schivata: 10
 
+salute attuale: 10
+exp: 40
+
 Fuggiasco (abilità passiva):
 	se non viene uccisa nel primo turno di combattimento, allora scappa

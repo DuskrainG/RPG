@@ -1,10 +1,12 @@
 	OGGETTI:									costo:
-Pozione curativa: rigenera 10 punti vita						5
-Carne/pesce: rigenera 3 punti vita							3
-Frutta/verdura: rigenera 1 punto vita							1
+Pozione curativa: rigenera 10 punti vita (usabile anche in combattimento)			5
+Carne/pesce: rigenera 3 punti vita (usabile anche in combattimento)			3
+Frutta/verdura: rigenera 1 punto vita (usabile anche in combattimento)			1
+Scarpe comode: +3 correre (può superare il massimo)					2
 Fune: +3 agilità (può superare il massimo)						2
 Cappa: +2 nascondersi, +1 furto (può superare il massimo)				2
-Scarpe comode: +3 correre (può superare il massimo)					2
+Elmo spavaldo: +3 risolutezza (può superare il massimo)					2
+Simbolo religioso: +2 empatizzare, +1 convincere (può superare il massimo)			2
 Lanterna: +5 notare di notte e in posti bui (può superare il massimo)			2
 Giaciglio: l'abilità Riposo rigenera 4 punti vita aggiuntivi					5
 Canna da pesca: può procurare una razione di pesce 1 volta al giorno se vicini all'acqua	5

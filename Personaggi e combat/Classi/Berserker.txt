@@ -33,7 +33,7 @@ Riposo (1):
 	BERSERKER:
 Sete di sangue (abilità passiva):
 	quando il berserker ha meno del 50% di punti salute, guadagna +8 forza, -2 precisione
-Colpo ponderato (1):
+Colpo ponderato (2):
 	il prossimo attacco guadagna -8 forza, +6 precisione
 Momento di riposo(1):
 	rigenera 18 salute a se stesso (non modificata da statistiche);

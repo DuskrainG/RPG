@@ -6,3 +6,6 @@ intelligenza: \
 resistenza: 1
 precisione: 4	
 schivata: 4
+
+salute attuale: 120
+exp: 60

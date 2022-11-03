@@ -17,6 +17,8 @@ precisione:	bonus:
 schivata:		bonus:
 
 salute attuale:
+livello: 1
+esperienza: 0/100
 
 Le statistiche sono determinate dalla classe scelta; i numeri tra parentesi indicano di quanto le statistiche sono aumentate quando si sale di livello. I bonus alle statistiche sono dati da equipaggiamento e armi.
 Consiglio: nel caso si vogliano usare più set di armi diverse (ad esempio set 1: arco, set 2: pugnale + scudo) conviene compilare 2 (o più) schede di statistiche in modo da poter agilmente cambiare le armi. Se il cambio di armi aumenta o diminuisce la salute, aumenta o diminuisce anche la salute attuale.

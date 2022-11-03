@@ -7,6 +7,10 @@ resistenza: 1
 precisione: 2	
 schivata: 2
 
+salute attuale: 150
+exp: 300
+
+
 Difensore del potere (abilità passiva): (solo custode nella torre del potere)
 	fintanto che non c'è nessun ciottolo nel crogiolo, il custode non attacca, a meno che non venga attaccato;
 	se c'è un ciottolo nel crogiolo, il custode si opporrà a chi cerca di attaccare i membri della fazione corrispondente al ciottolo

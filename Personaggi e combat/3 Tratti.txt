@@ -25,3 +25,4 @@ Guerriero completo: +1 a tutte le statistiche, -10 salute (al netto)
 Maestro delle armi: gli effetti (positivi e negativi) delle armi sono migliorati del 50% (approssimato per difetto)
 Agile con le armi: è possibile cambiare le armi in uso in qualsiasi momento (anche in risposta agli attacchi degli altri)
 Famiglia nobile: inizia la partita con +5 ricchezza
+Veloce ad imparare: aumenta del 10% l'esperienza ottenuta da qualsiasi fonte

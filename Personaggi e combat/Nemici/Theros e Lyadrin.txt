@@ -7,6 +7,10 @@ resistenza: 2
 precisione: 3
 schivata: 8
 
+salute attuale: 220
+exp: 900
+
+
 Fiuto per la paura (abilità passiva):
 	all'inizio del combattimento (prima della prima fase di combattimento) gli avversari devono provare un rischio medio per risolutezza
 	chi fallisce prende 10 danni

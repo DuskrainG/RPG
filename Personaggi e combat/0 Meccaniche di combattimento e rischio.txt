@@ -33,13 +33,13 @@ Combattimento:
 - se l'attaccante ha un punteggio complessivo maggiore, l'attacco va a segno, altrimenti manca; se i punteggi sono uguali l'attacco manca, ma potrebbero esserci degli effetti collaterali (ad esempio lo scudo usato per schivare potrebbe rompersi oppure si è impossibilitati a usare una certa abilità fino alla fine del combattimento o della giornata o anche si ha una piccola riduzione delle statistiche (salute e schivata))
 
 Se l'attacco va a segno, il danno inflitto è pari a:
-- forza per attacchi fisici con spade, mazze, martelli, ...
-- destrezza per gli attacchi fisici con armi a distanza (arco, balestra, armi da lancio, ...) e armi di agilità corpo a corpo (pugnali, ...)
-- intelligenza per attacchi magici
-- se viene utilizzato un incantesimo, viene aggiunto il danno dell'incantesimo
+- il danno dell'abilità (o attacco base), eventualmente sommato alla statistica rilevante
 - ai calcoli vengono aggiunte le statistiche delle armi (un personaggio potrebbe avere un equipaggiamento aggiuntivo non in uso; ciò non modificherebbe le statistiche)
 - alla fine viene sottratta la resistenza del bersaglio
 
 Se un giocatore raggiunge 0 salute (o meno):
-- può essere aiutato da qualcun altro, ripristinando 20 punti ferita se è la prima volta che raggiunge 0 salute oggi (notare che un giocatore che subisce danni mortali e raggiunge, ad esempio, -5 hp, si rianima con 15 hp)
+- può essere aiutato da qualcun altro, ripristinando 20 (+5 per livello) punti ferita se è la prima volta che raggiunge 0 salute oggi (notare che un giocatore che subisce danni mortali e raggiunge, ad esempio, -5 hp, si rianima con 15 hp a livello 1)
 - è morto definitivamente se ha già raggiunto 0 hp oggi
+
+Se un avversario è sconfitto, fornisce esperienza (exp) che si suddivide equamente a tutti coloro che hanno deciso di partecipare al combattimento (in una battaglia multipla, tutti acquisiscono esperienza per tutti gli avversari sconfitti, anche per coloro ai quali non hanno inflitto alcun danno). Nel caso l'esperienza ottenuta fosse un numero non intero, viene approssimata all'intero successivo. I giocatori forniscono 100 esperienza alla morte definitiva.
+L'esperienza viene ottenuta istantaneamente, dunque in una battaglia multipla è possibile salire di livello prima della fine della battaglia.
