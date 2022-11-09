@@ -25,7 +25,7 @@ notare: 4/5
 Sforzo (1 per partita):
 	per il prossimo rischio ottieni +2 a ogni qualità
 Riposo (1):
-	rigenera 10 punti vita (non aumentato da statistiche)
+	rigenera 10 (+1) punti vita (non aumentato da statistiche)
 	questa abilità può essere usata solo di notte
 
 	MAGO:
@@ -40,6 +40,6 @@ Palla di fuoco (1):
 Palla d'ombra (1):
 	12 danni, -6 salute
 Insegnamento del maestro (1):
-	30 danni, ma non ottiene bonus da intelligenza
+	25 (+2) danni (non aumentato da statistiche)
 Esplosione infuocata (1):
-	attacca un qualsiasi numero di bersagli vicino a te; questa abilità fa 15 danni a ciascuno, non aumentati dalle statistiche
+	attacca un qualsiasi numero di bersagli vicino a te; questa abilità fa 15 (+1) danni a ciascuno, non aumentati dalle statistiche

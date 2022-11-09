@@ -1,20 +1,23 @@
+Il livello del nemico è pari al più basso tra i livelli dei giocatori che partecipano al combattimento.
+
 	STATISTICHE:
-salute: 220
-forza: 14
+salute: 220 (+25)
+forza: 14 (+2)
 destrezza: \ 	
-intelligenza: 20	
+intelligenza: 20 (+2)	
 resistenza: 2	
 precisione: 3
 schivata: 8
 
+livello: 0
 salute attuale: 220
 exp: 900
 
 
 Fiuto per la paura (abilità passiva):
 	all'inizio del combattimento (prima della prima fase di combattimento) gli avversari devono provare un rischio medio per risolutezza
-	chi fallisce prende 10 danni
-	chi fallisce gravemente prende 20 danni
+	chi fallisce prende 10 (+1) danni
+	chi fallisce gravemente prende 20 (+2) danni
 
 Soffio infuocato (1): (solo Lyadrin)
 	Lyadrin infligge danni pari all'intelligenza a tutti i nemici circostanti

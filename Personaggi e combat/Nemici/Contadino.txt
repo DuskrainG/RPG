@@ -1,12 +1,15 @@
+Il livello del nemico è pari al più basso tra i livelli dei giocatori che partecipano al combattimento.
+
 	STATISTICHE:
-salute: 70		bonus: (+30)
-forza: 14		bonus: (+3)
+salute: 70	(+8)	bonus: (+30)
+forza: 14	(+2)	bonus: (+3)
 destrezza: \
 intelligenza: \	
 resistenza: 1	bonus: (+1)
 precisione: 4	
 schivata: 2
 
+livello: 0
 salute attuale: 
 exp: 150
 
@@ -16,7 +19,7 @@ Chiamata alle armi (1):
 	questa abilità può essere usata solo se il contadino non è stato chiamato alle armi
 
 Difesa del territorio (abilità passiva):
-	se l'avversario decide di scappare prima del termine del combattimento, il contadino gli infliggerà 10 danni;
+	se l'avversario decide di scappare prima del termine del combattimento, il contadino gli infliggerà 10 (+1) danni;
 	l'azione di scappare non comporterà nessun rischio
 
 Difesa del bestiame (abilità passiva):

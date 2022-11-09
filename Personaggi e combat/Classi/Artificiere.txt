@@ -27,7 +27,7 @@ Attacco base (infinito):
 Sforzo (1 per partita):
 	per il prossimo rischio ottieni +2 a ogni qualità
 Riposo (1):
-	rigenera 10 punti vita (non aumentato da statistiche)
+	rigenera 10 (+1) punti vita (non aumentato da statistiche)
 	questa abilità può essere usata solo di notte
 
 	ARTIFICIERE:
@@ -41,7 +41,7 @@ Ricarica (infinito):
 	questa abilità può essere usata anche fuori dal combattimento
 Bombaaaaaaa (2):
 	piazza una bomba e mettiti a correre;
-	la bomba fa 20 danni (non aumentati dalle statistiche) a tutti i nemici colpiti;
+	la bomba fa 20 (+2) danni (non aumentati dalle statistiche) a tutti i nemici colpiti;
 	la bomba colpisce tutti i nemici nella zona che non riescono a sfuggire;
 	sfuggire alla bomba è un rischio alto (15) di correre (i nemici che non hanno la qualità correre, hanno correre = 0);
 	se il rischio è fallito gravemente (<=7), la bomba fa il doppio dei danni;

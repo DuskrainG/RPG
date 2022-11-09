@@ -1,4 +1,10 @@
-	PATCH FUTURE:s
+	PATCH FUTURE:
+
+Nuova qualità: precedenza
+	l'inizio di un combattimento è trattato come un rischio alla pari di precedenza tra tutti i partecipanti
+
+Update ai nemici:
+	anche i nemici otterrano qualità
 
 Nuova classe: Evocatore:
 	evoca famigli che combattono al tuo servigio; ottieni bonus in base ai famigli presenti in battaglia

@@ -1,12 +1,15 @@
+Il livello del nemico è pari al più basso tra i livelli dei giocatori che partecipano al combattimento.
+
 	STATISTICHE:
-salute: 140
+salute: 140 (+15)
 forza: \
 destrezza: \ 	
-intelligenza: 17	
+intelligenza: 17 (+2)
 resistenza: 1	
-precisione: 5
-schivata: 4
+precisione: 4
+schivata: 5
 
+livello: 0
 salute attuale: 140
 exp: 600
 

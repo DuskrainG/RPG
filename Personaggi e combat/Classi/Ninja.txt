@@ -27,7 +27,7 @@ Attacco base (infinito):
 Sforzo (1 per partita):
 	per il prossimo rischio ottieni +2 a ogni qualità
 Riposo (1):
-	rigenera 10 punti vita (non aumentato da statistiche)
+	rigenera 10 (+1) punti vita (non aumentato da statistiche)
 	questa abilità può essere usata solo di notte
 
 	NINJA:

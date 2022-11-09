@@ -27,15 +27,15 @@ Attacco base (infinito):
 Sforzo (1 per partita):
 	per il prossimo rischio ottieni +2 a ogni qualità
 Riposo (1):
-	rigenera 10 punti vita (non aumentato da statistiche)
+	rigenera 10 (+1) punti vita (non aumentato da statistiche)
 	questa abilità può essere usata solo di notte
 
 	GUERRIERO:
 Protezione divina (1):
 	scegli uno:
-	1) ottieni uno scudo di 15 salute per questo combattimento;
-	2) ottieni uno scudo di 10 salute e fornisci uno scudo di 10 salute a un altro bersaglio per questo combattimento
+	1) ottieni uno scudo di 15 (+2) salute per questo combattimento;
+	2) ottieni uno scudo di 10 (+1) salute e fornisci uno scudo di 10 (+1) salute a un altro bersaglio per questo combattimento
 Colpo solenne (2):
 	il prossimo attacco non può essere schivato/mancato
 Giustizia del creatore (1):
-	attacca un qualsiasi numero di bersagli vicino a te; questa abilità fa 10 danni a ciascuno, non aumentati dalle statistiche
+	attacca un qualsiasi numero di bersagli vicino a te; questa abilità fa 10 (+1) danni a ciascuno, non aumentati dalle statistiche

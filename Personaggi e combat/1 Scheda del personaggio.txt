@@ -17,7 +17,7 @@ precisione:		bonus:
 schivata:			bonus:
 
 salute attuale:
-livello: 1
+livello: 0
 esperienza: 0/100
 
 Le statistiche sono determinate dalla classe scelta; i numeri tra parentesi indicano di quanto le statistiche sono aumentate quando si sale di livello. I bonus alle statistiche sono dati da equipaggiamento e armi.

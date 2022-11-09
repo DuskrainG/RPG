@@ -27,7 +27,7 @@ Attacco base (infinito):
 Sforzo (1 per partita):
 	per il prossimo rischio ottieni +2 a ogni qualità
 Riposo (1):
-	rigenera 10 punti vita (non aumentato da statistiche)
+	rigenera 10 (+1) punti vita (non aumentato da statistiche)
 	questa abilità può essere usata solo di notte
 
 	LADRO:
@@ -40,6 +40,7 @@ Colpo basso (2):
 Veleno del loto (infinito):
 	il prossimo attacco non fa danni, ma causa avvelenamento;
 	l'avvelenamento causa 5 danni al turno per un massimo di 5 turni;
+	il danno da veleno aumenta di 1 ogni 5 livelli (6 a livello 5, 7 a livello 10, 8 a livello 15, ...);
 	i primi danni da veleno vengono inferti immediatamente a seguito dell'abilità;
 	i danni da veleno successivi vengono inferti all'inizio della propria fase di combattimento;
 	il danno da veleno ignora la resistenza e non viene modificato dalle statistiche;
