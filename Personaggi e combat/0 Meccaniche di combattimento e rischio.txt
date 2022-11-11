@@ -1,10 +1,10 @@
-Rischio:
+	RISCHIO:
 - chi vuole prendere un rischio deve lanciare 1d20 e sommare la propria statistica relativa al rischio
 - se tale somma supera (o è uguale a) quanto richiesto dal rischio, il rischio è superato
 - se tale somma è minore del 50% di quanto richiesto dal rischio, il rischio è fallito gravemente
 - se tale somma è compresa tra il 50% (incluso) e il 100% (escluso) di quanto richiesto dal rischio, il rischio è fallito (non gravemente)
 
-Livelli di rischio:
+	LIVELLI DI RISCHIO:
 - nessun rischio: occorre uno 0
 - rischio basso: occorre un 5
 - rischio medio: occorre un 10
@@ -12,7 +12,7 @@ Livelli di rischio:
 - rischio estremo: occorre un 20
 - rischio supremo: occorre un 25
 
-Rischio tra giocatori, schema attaccante/difensore:
+	RISCHIO TRA GIOCATORI, SCHEMA ATTACCANTE/DIFENSORE:
 - se un rischio comporta un'interazione tra giocatori, entrambi i giocatori lanciano per il relativo rischio;
 - le tipologie e i livelli di rischio non sono necessariamente gli stessi: ad esempio se un ladro volesse rubare un'arma a un altro giocatore, questo sarebbe un rischio estremo di Furto per tentare il furto, ma sarebbe un rischio medio di Notare per accorgersi del furto in atto;
 - in uno schema attaccante/difensore, l'attaccante è il primo a dover lanciare: se fallisce, il rischio è immediatamente fallito (indipendentemente dal lancio del difensore);
@@ -20,17 +20,21 @@ Rischio tra giocatori, schema attaccante/difensore:
 - l'attaccante dunque ha bisogno non solo di vincere il proprio rischio, ma anche che il difensore fallisca il proprio
 - è anche possibile che uno dei due giocatori o entrambi debbano superare più di un livello di rischio per portare a termine l'azione: in questo caso è possibile ottenere dei risultati parziali nel caso venga superato solamente uno dei due (o più) rischi (esempio: un giocatore vuole scappare da un altro arrampicandosi su un albero e nascondendosi tra le fronde; è possibile che riesca ad arrampicarsi, ma non a nascondersi)
 
-Rischio tra giocatori, schema sfida alla pari:
+	RISCHIO TRA GIOCATORI, SFIDA SCHEMA ALLA PARI:
 - ci sono situazioni descrivibili come una sfida alla pari: ad esempio due giocatori possono voler inseguire uno stesso bersaglio o arrivare per primi a una certa destinazione;
 - in questo caso entrambi i giocatori lanciano i dadi contemporaneamente;
 - generalmente il livello di rischio coincide per entrambi i giocatori, mentre la tipologia può dipendere dall'approccio scelto dal giocatore
 
 
-Combattimento:
+	COMBATTIMENTO:
 - tutti i partecipanti al combattimento lanciano 1d20; i turni si susseguono in ordine di risultato decrescente
 - l'attaccante tira 1d20 + precisione
 - il difensore tira 1d20 + schivata
-- se l'attaccante ha un punteggio complessivo maggiore, l'attacco va a segno, altrimenti manca; se i punteggi sono uguali l'attacco manca, ma potrebbero esserci degli effetti collaterali (ad esempio lo scudo usato per schivare potrebbe rompersi oppure si è impossibilitati a usare una certa abilità fino alla fine del combattimento o della giornata o anche si ha una piccola riduzione delle statistiche (salute e schivata))
+- se l'attaccante ha un punteggio complessivo maggiore, l'attacco va a segno, altrimenti manca (se i punteggi sono uguali l'attacco manca)
+- alcune abilità hanno un unico attaccante ma difensori multipli (abilità AoE); in questo caso il lancio di precisione è unico, mentre ogni difensore fa un lancio di schivata
+- alcune abilità (ad esempio scudi e cure) non infliggono danni e dunque non hanno un attaccante e un difensore, ma un agente e un bersaglio; in questo caso l'abilità va a segno, senza la necessità del lancio dei dadi
+- alcune abilità hanno un costo addizionale (ad esempio -5 salute); in questo caso chi lancia tale abilità deve pagare il costo addizionale, anche se l'abilità fallisce
+- alcune abilità possono avere diverse modalità per decidere se l'attacco va a segno; è inteso che il regolamento di tali abilità sostituisce il lancio di precisione/schivata
 
 Se l'attacco va a segno, il danno inflitto è pari a:
 - il danno dell'abilità (o attacco base), eventualmente sommato alla statistica rilevante
@@ -38,8 +42,8 @@ Se l'attacco va a segno, il danno inflitto è pari a:
 - alla fine viene sottratta la resistenza del bersaglio
 
 Se un giocatore raggiunge 0 salute (o meno):
-- può essere aiutato da qualcun altro, ripristinando 20 (+5 per livello) punti ferita se è la prima volta che raggiunge 0 salute oggi (notare che un giocatore che subisce danni mortali e raggiunge, ad esempio, -5 hp, si rianima con 15 hp a livello 1)
+- può essere aiutato da qualcun altro, ripristinando 20 (+4) punti ferita se è la prima volta che raggiunge 0 salute oggi (notare che un giocatore che subisce danni mortali e raggiunge, ad esempio, -5 hp, si rianima con 15 hp a livello 0)
 - è morto definitivamente se ha già raggiunto 0 hp oggi
 
-Se un avversario è sconfitto, fornisce esperienza (exp) che si suddivide equamente a tutti coloro che hanno deciso di partecipare al combattimento (in una battaglia multipla, tutti acquisiscono esperienza per tutti gli avversari sconfitti, anche per coloro ai quali non hanno inflitto alcun danno). Nel caso l'esperienza ottenuta fosse un numero non intero, viene approssimata all'intero successivo. I giocatori forniscono 100 esperienza alla morte definitiva.
+Se un avversario è sconfitto, fornisce esperienza (exp) che si suddivide equamente a tutti coloro che hanno deciso di partecipare al combattimento (in una battaglia multipla, tutti acquisiscono esperienza per tutti gli avversari sconfitti, anche per coloro ai quali non hanno inflitto alcun danno). Nel caso l'esperienza ottenuta fosse un numero non intero, viene approssimata all'intero successivo. I giocatori forniscono 200 esperienza alla morte definitiva.
 L'esperienza viene ottenuta istantaneamente, dunque in una battaglia multipla è possibile salire di livello prima della fine della battaglia.

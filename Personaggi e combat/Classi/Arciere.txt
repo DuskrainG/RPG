@@ -19,7 +19,7 @@ correre: 1/3
 notare: 3/5
 
 
-	ABILITÀ:  (le abilità guadagnano danni in base alla destrezza)
+	ABILITÀ:  (le abilità sono potenziate dalla destrezza)
 
 	TUTTE LE CLASSI:
 Attacco base (infinito):

@@ -19,7 +19,7 @@ correre: -1/1
 notare: 0/3
 
 
-	ABILITÀ:  (le abilità guadagnano danni in base alla forza)
+	ABILITÀ:  (le abilità sono potenziate dalla forza)
 
 	TUTTE LE CLASSI:
 Attacco base (infinito):

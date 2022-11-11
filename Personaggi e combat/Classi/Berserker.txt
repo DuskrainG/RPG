@@ -19,7 +19,7 @@ correre: 1/3
 notare: 1/3
 
 
- 	ABILITÀ: (le abilità guadagnano danni in base alla forza)
+ 	ABILITÀ: (le abilità sono potenziate dalla forza)
 
 	TUTTE LE CLASSI:
 Attacco base (infinito):
@@ -37,6 +37,7 @@ Colpo ponderato (2):
 	il prossimo attacco guadagna -8 forza, +6 precisione
 Momento di riposo(1):
 	rigenera 18 (+2) salute a se stesso (non modificata da statistiche);
+	questa abilità può essere usata in combattimento solamente se sono stati subiti danni durante questo combattimento;
 	non può essere usato fuori dal combattimento
 Momento di riflessione(1):
 	per il prossimo attacco, se la tua statistica complessiva di precisione è -X, diventa invece +X

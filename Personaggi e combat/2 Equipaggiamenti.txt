@@ -41,4 +41,4 @@ scudo legionario: +20 salute, +2 resistenza
 guanti magici: +2 precisione, +2 schivata
 
 
-Ogni giocatore inizia la partita con 1 arma a 2 mani oppure 2 armi a 1 mano. I fabbri possono migliorare le armi; aumentano del 50% (approssimato per difetto) le statistiche offerte da un'arma al costo di 6 oro (3 oro per armi a 1 mano). I fabbri possono anche vendere le armi allo stesso prezzo (6 oro per armi a 2 mani, 3 oro per armi a 1 mano).
+Ogni giocatore inizia la partita con 1 arma a 2 mani oppure 2 armi a 1 mano. I fabbri possono vendere o comprare le armi al prezzo di 6 oro per armi a 2 mani, 3 oro per armi a 1 mano.

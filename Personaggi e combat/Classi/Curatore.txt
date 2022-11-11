@@ -19,11 +19,9 @@ correre: 3/5
 notare: 0/3
 
 
-	ABILITÀ:  (le abilità guadagnano danni in base all'intelligenza)
+	ABILITÀ:  (le abilità sono potenziate dall'intelligenza)
 
 	TUTTE LE CLASSI:
-Attacco base (infinito):
-	0 danni
 Sforzo (1 per partita):
 	per il prossimo rischio ottieni +2 a ogni qualità
 Riposo (1):
@@ -34,11 +32,13 @@ Riposo (1):
 Missili arcani (infinito):
 	1 danno
 Ora della battaglia (2):
-	6 danni
+	10 danni, -5 salute
 Cura semplice (2):
 	rigenera 15 (+2) salute a qualsiasi bersaglio (non aumentato da statistiche);
+	questa abilità può essere usata in combattimento solamente se è stato inflitto danni al bersaglio durante questo combattimento;
 	questa abilità può essere usata anche fuori dal combattimento, ma in tal caso rappresenta un rischio alto (15) di empatizzare
 Cura finale (1):
 	rigenera tutta la salute a qualasiasi bersaglio;
 	salta la prossima fase di combattimento;
+	questa abilità può essere usata in combattimento solamente se è stato inflitto danni al bersaglio durante questo combattimento;
 	questa abilità può essere usata anche fuori dal combattimento, ma in tal caso rappresenta un rischio supremo (25) di empatizzare
